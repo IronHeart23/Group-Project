@@ -56,7 +56,7 @@ img,
 .bag,
 .profile {
   float: right;
-  padding: 40px 16px;
+  padding: 40px 20px;
   width: 20px;
   height: 20px;
 }
@@ -70,6 +70,7 @@ img,
 .fa-shopping-bag {
   font-size: 20px;
 }
+
 
 
   /*↑↑↑ NavBar Code↑↑↑ */
